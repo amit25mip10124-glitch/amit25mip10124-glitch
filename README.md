@@ -2,7 +2,7 @@
  Name - Amit Kumar <br> 
  Branch - Int M.TECH DATA SCIENCE <br>
  Year - 2025 - 2030 <br>
- 🌱 I plan to explore new technologies and continuously expand my skill set.<br>
+  I plan to explore new technologies and continuously expand my skill set.<br>
 
 
 
