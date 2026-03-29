@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me 👋
+# Name - Amit Kumar 
+ Branch - Int M.TECH DATA SCIENCE 
+ Year - 2025 - 2030 
+ 🌱 I plan to explore new technologies and continuously expand my skill set.
+
+
 
 <!--
 **amit25mip10124-glitch/amit25mip10124-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
